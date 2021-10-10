@@ -38,7 +38,7 @@ public class Admission extends JFrame implements ActionListener {
 			panel2.setLayout(null);
 			panel3.setLayout(null);
 			panel2.setBounds(20,80,780,400);
-			panel2.setBorder(new TitledBorder(new LineBorder(Color.orange, 5),"Fill Details",0,0,new Font("Segoe Script",Font.BOLD,10),Color.red));
+			panel2.setBorder(new TitledBorder(new LineBorder(Color.orange, 5),"Fill Details",0,0,new Font("Cambria Math",Font.BOLD,10),Color.red));
 
 			//Label
 
